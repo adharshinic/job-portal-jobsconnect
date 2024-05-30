@@ -9,12 +9,7 @@
   - Various Navigation Bar Customizations for Different Users
   - Rest of the Features you've to explore...
   
-- How to install?
-  - Clone the Repo.
-  - Have WAMP / XAMPP Server installed in your local machine
-  - Place the repo. in the right directory (c/wamp64/www in case of WAMP Server)
-  - Import the sql file (in the database folder) in the PHPMyAdmin Panel in a database named 'jobportal'
-  - To run the site, type localhost/jobConnect in your browser
+
   
 Landing Page:
 ![image](https://user-images.githubusercontent.com/83655913/233121917-443ee6ec-1521-492c-a964-d93f72bbd67d.png)
